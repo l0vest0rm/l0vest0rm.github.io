@@ -134,10 +134,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
 
-head_scripts:
-  - http://cdn.mathjax.org/mathjax/latest/MathJax.js
-
-
 # Reading Files
 include:
   - .htaccess
